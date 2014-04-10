@@ -4,7 +4,7 @@ package edu.macalester.comp124.mymap;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNull;
+import static junit.framework.Assert.assertNull;
 
 /**
  * Class to test hashmaps.
